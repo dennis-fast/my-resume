@@ -28,6 +28,11 @@ nav p {
   font-size: 22px;
 }
 
+div p {
+  hyphens: auto;
+  text-align: justify;
+}
+
 main {
   padding: 20px;
 }
